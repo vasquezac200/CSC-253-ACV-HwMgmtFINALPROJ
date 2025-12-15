@@ -33,7 +33,7 @@ A WinForms desktop Homework Management System inspired by Moodle. Supports Admin
 2. Build & Run
 3. Login using the pre-created admin:
    - Username: `admin`
-   - Password: `admin`
+   - Password: `password`
 
 ## Screenshots
 ![Login](Screenshots/login.png)
